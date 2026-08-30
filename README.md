@@ -1,4 +1,4 @@
-libnoise is a C++ library that is used to generate coherent noise, a type of smoothly-changing noise. libnoise can generate perlin noise, ridged multifractal noise, , other types of coherent noise and used for diffusion models.
+libnoise is a C++ library that is used to generate coherent noise, a type of smoothly-changing noise. libnoise can generate perlin noise, ridged multifractal noise, other types of coherent noise and used for diffusion models.
 
 coherent noise is often used by graphics programmers to generate natural-looking textures, planetary terrain, and other things. It can also be used to move critters in a realistic way. libnoise is known to compile using the following compiler:
 
